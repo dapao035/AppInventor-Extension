@@ -1,2 +1,2 @@
-#### installAPK.aix:
+### installAPK.aix:
 此扩展可用
